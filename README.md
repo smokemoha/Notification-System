@@ -189,8 +189,8 @@ Check the log file (default: `notification_app.log`) for detailed information ab
 
 ## Support
 
-For issues or questions, please refer to the documentation or contact the developer.
+For issues or questions, please refer to my contact in the left side on my github profile.
 
 ---
 
-Happy monitoring!
+
