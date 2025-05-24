@@ -1,0 +1,37 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Logs
+*.log
+
+# Local configuration with sensitive data
+config.json
+
+# Application state
+repo_state.json
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+todo.md
+GitHub Repository Notification System - Setup Guide.pdf
+system_architecture.md
+notification_app.log
